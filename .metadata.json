@@ -1,0 +1,21 @@
+[
+  {
+    "package": "vegperiod",
+    "oncran": true
+  },
+  {
+    "package": "apcf",
+    "oncran": true
+  },
+  {
+    "package": "TreeGrOSSinR"
+  },
+  {
+    "package": "LWFBrook90R",
+    "oncran": true
+  },
+  {
+    "package": "optimization",
+    "oncran": false
+  }
+]
