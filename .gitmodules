@@ -28,5 +28,4 @@
 	path = optimization
 	url = https://github.com/kaihusmann/optimization
 	shallow = true
-	branch = *release
 	registered = true
