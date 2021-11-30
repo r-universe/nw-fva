@@ -22,7 +22,7 @@
 	path = LWFBrook90R
 	url = https://github.com/pschmidtwalter/LWFBrook90R
 	shallow = true
-	branch = v0.4.0
+	branch = v0.4.5
 	registered = true
 [submodule "optimization"]
 	path = optimization
