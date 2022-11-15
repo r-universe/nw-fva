@@ -5,23 +5,23 @@
 [submodule "LWFBrook90R"]
 	path = LWFBrook90R
 	url = https://github.com/pschmidtwalter/LWFBrook90R
-	branch = *release
+	branch = v0.5.3
 [submodule "TreeGrOSSinR"]
 	path = TreeGrOSSinR
 	url = https://github.com/rnuske/TreeGrOSSinR
-	branch = *release
+	branch = v0.1.0
 [submodule "apcf"]
 	path = apcf
 	url = https://github.com/rnuske/apcf
-	branch = *release
+	branch = v0.3.0
 [submodule "et.nwfva"]
 	path = et.nwfva
 	url = https://github.com/rnuske/et.nwfva
-	branch = *release
+	branch = v0.1.1
 [submodule "optimization"]
 	path = optimization
 	url = https://github.com/kaihusmann/optimization
 [submodule "vegperiod"]
 	path = vegperiod
 	url = https://github.com/rnuske/vegperiod
-	branch = *release
+	branch = v0.4.0
