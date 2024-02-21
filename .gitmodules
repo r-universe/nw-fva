@@ -1,5 +1,27 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/nw-fva/nw-fva.r-universe.dev
 	branch = HEAD
+[submodule "LWFBrook90R"]
+	path = LWFBrook90R
+	url = https://github.com/pschmidtwalter/LWFBrook90R
+	branch = *release
+[submodule "TreeGrOSSinR"]
+	path = TreeGrOSSinR
+	url = https://github.com/rnuske/TreeGrOSSinR
+	branch = *release
+[submodule "apcf"]
+	path = apcf
+	url = https://github.com/rnuske/apcf
+	branch = *release
+[submodule "et.nwfva"]
+	path = et.nwfva
+	url = https://github.com/rnuske/et.nwfva
+	branch = *release
+[submodule "optimization"]
+	path = optimization
+	url = https://github.com/kaihusmann/optimization
+[submodule "vegperiod"]
+	path = vegperiod
+	url = https://github.com/rnuske/vegperiod
+	branch = *release

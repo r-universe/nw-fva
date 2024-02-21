@@ -1,0 +1,22 @@
+[
+  {
+    "package": "et.nwfva",
+    "releasetag": true
+  },
+  {
+    "package": "vegperiod",
+    "releasetag": true
+  },
+  {
+    "package": "apcf",
+    "releasetag": true
+  },
+  {
+    "package": "TreeGrOSSinR",
+    "releasetag": true
+  },
+  {
+    "package": "LWFBrook90R",
+    "releasetag": true
+  }
+]
