@@ -5,7 +5,7 @@
 [submodule "LWFBrook90R"]
 	path = LWFBrook90R
 	url = https://github.com/pschmidtwalter/LWFBrook90R
-	branch = v0.5.3
+	branch = v0.6.0
 [submodule "TreeGrOSSinR"]
 	path = TreeGrOSSinR
 	url = https://github.com/rnuske/TreeGrOSSinR
