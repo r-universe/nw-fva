@@ -17,7 +17,7 @@
 [submodule "et.nwfva"]
 	path = et.nwfva
 	url = https://github.com/rnuske/et.nwfva
-	branch = v0.1.1
+	branch = v0.2.0
 [submodule "optimization"]
 	path = optimization
 	url = https://github.com/kaihusmann/optimization
