@@ -13,7 +13,7 @@
 [submodule "apcf"]
 	path = apcf
 	url = https://github.com/rnuske/apcf
-	branch = v0.3.2
+	branch = v0.3.3
 [submodule "et.nwfva"]
 	path = et.nwfva
 	url = https://github.com/rnuske/et.nwfva
