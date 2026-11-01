@@ -24,4 +24,4 @@
 [submodule "vegperiod"]
 	path = vegperiod
 	url = https://github.com/rnuske/vegperiod
-	branch = v0.4.0
+	branch = v0.4.1
